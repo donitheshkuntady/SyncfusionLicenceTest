@@ -1,0 +1,6 @@
+@SyncfusionLicenceTest_HostAddress = http://localhost:5073
+
+GET {{SyncfusionLicenceTest_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
